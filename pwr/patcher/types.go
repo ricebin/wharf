@@ -5,9 +5,9 @@ import (
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/bowl"
-	"github.com/itchio/wharf/wire"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/wire"
 )
 
 // Checkpoint contains state information for a patcher that

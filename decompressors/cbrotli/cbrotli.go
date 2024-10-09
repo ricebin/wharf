@@ -3,7 +3,7 @@ package cbrotli
 import (
 	"github.com/itchio/savior"
 	"github.com/itchio/savior/brotlisource"
-	"github.com/itchio/wharf/pwr"
+	"github.com/ricebin/wharf/pwr"
 )
 
 type brotliDecompressor struct{}

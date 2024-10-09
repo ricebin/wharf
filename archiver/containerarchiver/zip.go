@@ -10,7 +10,7 @@ import (
 	"github.com/itchio/headway/counter"
 	"github.com/itchio/headway/state"
 
-	"github.com/itchio/wharf/archiver"
+	"github.com/ricebin/wharf/archiver"
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"

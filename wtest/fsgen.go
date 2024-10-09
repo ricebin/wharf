@@ -12,7 +12,7 @@ import (
 
 	"github.com/itchio/randsource"
 	"github.com/itchio/screw"
-	"github.com/itchio/wharf/pwr/drip"
+	"github.com/ricebin/wharf/pwr/drip"
 	"github.com/stretchr/testify/assert"
 )
 

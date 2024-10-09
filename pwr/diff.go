@@ -8,14 +8,14 @@ import (
 	"github.com/itchio/headway/counter"
 	"github.com/itchio/headway/state"
 
-	"github.com/itchio/wharf/multiread"
-	"github.com/itchio/wharf/taskgroup"
+	"github.com/ricebin/wharf/multiread"
+	"github.com/ricebin/wharf/taskgroup"
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/wire"
-	"github.com/itchio/wharf/wsync"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/wire"
+	"github.com/ricebin/wharf/wsync"
 )
 
 // DiffContext holds the state during a diff operation

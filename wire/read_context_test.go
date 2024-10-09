@@ -13,7 +13,7 @@ import (
 	"github.com/itchio/go-brotli/enc"
 	"github.com/itchio/savior/seeksource"
 
-	"github.com/itchio/wharf/wire"
+	"github.com/ricebin/wharf/wire"
 	"github.com/stretchr/testify/assert"
 )
 

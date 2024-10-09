@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/itchio/wharf/bsdiff/lrufile"
+	"github.com/ricebin/wharf/bsdiff/lrufile"
 	"github.com/stretchr/testify/assert"
 )
 

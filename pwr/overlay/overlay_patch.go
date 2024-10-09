@@ -4,7 +4,7 @@ import (
 	"io"
 
 	"github.com/itchio/savior"
-	"github.com/itchio/wharf/wire"
+	"github.com/ricebin/wharf/wire"
 
 	"github.com/pkg/errors"
 )

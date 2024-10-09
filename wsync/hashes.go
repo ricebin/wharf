@@ -6,10 +6,10 @@ import (
 	"context"
 	"io"
 
-	"github.com/itchio/wharf/werrors"
+	"github.com/ricebin/wharf/werrors"
 
-	"github.com/itchio/wharf/splitfunc"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/splitfunc"
 )
 
 // CreateSignature calculate the signature of target.

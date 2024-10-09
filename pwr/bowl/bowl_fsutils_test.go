@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/itchio/screw"
-	"github.com/itchio/wharf/archiver"
-	"github.com/itchio/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/archiver"
+	"github.com/ricebin/wharf/pwr/bowl"
 
 	"github.com/itchio/headway/state"
 

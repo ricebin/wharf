@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/itchio/wharf/ctxcopy"
-	"github.com/itchio/wharf/werrors"
+	"github.com/ricebin/wharf/ctxcopy"
+	"github.com/ricebin/wharf/werrors"
 	"github.com/stretchr/testify/assert"
 )
 

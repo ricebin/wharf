@@ -18,11 +18,11 @@ import (
 	"github.com/itchio/savior"
 	"github.com/itchio/savior/brotlisource"
 	"github.com/itchio/savior/seeksource"
-	"github.com/itchio/wharf/bsdiff"
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/patcher"
-	"github.com/itchio/wharf/pwr/rediff"
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/bsdiff"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/patcher"
+	"github.com/ricebin/wharf/pwr/rediff"
+	"github.com/ricebin/wharf/wtest"
 )
 
 type brotliCompressor struct{}

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/itchio/wharf/multiread"
+	"github.com/ricebin/wharf/multiread"
 	"github.com/stretchr/testify/assert"
 )
 

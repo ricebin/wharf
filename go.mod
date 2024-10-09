@@ -1,4 +1,4 @@
-module github.com/itchio/wharf
+module github.com/ricebin/wharf
 
 go 1.13
 

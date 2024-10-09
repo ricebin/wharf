@@ -13,23 +13,23 @@ import (
 	"github.com/itchio/headway/united"
 	"github.com/itchio/lake"
 	"github.com/itchio/screw"
-	"github.com/itchio/wharf/wsync"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/wsync"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/bowl"
-	"github.com/itchio/wharf/pwr/patcher"
-	"github.com/itchio/wharf/pwr/rediff"
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/pwr/patcher"
+	"github.com/ricebin/wharf/pwr/rediff"
+	"github.com/ricebin/wharf/wtest"
 
 	"github.com/itchio/headway/state"
 	"github.com/itchio/lake/pools/fspool"
 	"github.com/itchio/lake/tlc"
 	"github.com/itchio/savior/seeksource"
 
-	_ "github.com/itchio/wharf/compressors/cbrotli"
-	_ "github.com/itchio/wharf/decompressors/cbrotli"
+	_ "github.com/ricebin/wharf/compressors/cbrotli"
+	_ "github.com/ricebin/wharf/decompressors/cbrotli"
 )
 
 func Test_Naive(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/itchio/wharf/werrors"
+	"github.com/ricebin/wharf/werrors"
 )
 
 const threshold int64 = 256 * 1024

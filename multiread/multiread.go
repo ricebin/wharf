@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/itchio/wharf/ctxcopy"
+	"github.com/ricebin/wharf/ctxcopy"
 )
 
 type multiread struct {

@@ -6,9 +6,9 @@ import (
 
 	"github.com/itchio/headway/united"
 
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/bowl"
-	"github.com/itchio/wharf/wsync"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/wsync"
 
 	"github.com/itchio/lake"
 

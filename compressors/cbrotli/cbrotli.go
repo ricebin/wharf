@@ -4,7 +4,7 @@ import (
 	"io"
 
 	"github.com/itchio/go-brotli/enc"
-	"github.com/itchio/wharf/pwr"
+	"github.com/ricebin/wharf/pwr"
 )
 
 type brotliCompressor struct{}

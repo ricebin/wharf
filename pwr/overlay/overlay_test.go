@@ -13,8 +13,8 @@ import (
 	"github.com/itchio/savior/seeksource"
 
 	"github.com/itchio/headway/united"
-	"github.com/itchio/wharf/pwr/overlay"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/pwr/overlay"
 	"github.com/stretchr/testify/assert"
 )
 

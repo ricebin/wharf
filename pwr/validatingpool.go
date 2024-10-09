@@ -5,10 +5,10 @@ import (
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/pwr/drip"
-	"github.com/itchio/wharf/pwr/onclose"
-	"github.com/itchio/wharf/wsync"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/pwr/drip"
+	"github.com/ricebin/wharf/pwr/onclose"
+	"github.com/ricebin/wharf/wsync"
 )
 
 type OnCloseFunc func(fileIndex int64)

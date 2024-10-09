@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/itchio/wharf.svg?branch=master)](https://travis-ci.org/itchio/wharf)
 [![build status](https://git.itch.ovh/itchio/wharf/badges/master/build.svg)](https://git.itch.ovh/itchio/wharf/commits/master)
 [![codecov](https://codecov.io/gh/itchio/wharf/branch/master/graph/badge.svg)](https://codecov.io/gh/itchio/wharf)
-[![Go Report Card](https://goreportcard.com/badge/github.com/itchio/wharf)](https://goreportcard.com/report/github.com/itchio/wharf)
-[![GoDoc](https://godoc.org/github.com/itchio/wharf?status.svg)](https://godoc.org/github.com/itchio/wharf)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/itchio/wharf/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ricebin/wharf)](https://goreportcard.com/report/github.com/ricebin/wharf)
+[![GoDoc](https://godoc.org/github.com/ricebin/wharf?status.svg)](https://godoc.org/github.com/ricebin/wharf)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ricebin/wharf/blob/master/LICENSE)
 
 wharf is a protocol for incrementally transferring software builds over
 the network using minimal time/bandwidth.
@@ -24,7 +24,7 @@ The complete spec is available online, as a book:
 
 And can be contributed to via its GitHub repository:
 
-  * :evergreen_tree: <https://github.com/itchio/wharf-spec>
+  * :evergreen_tree: <https://github.com/ricebin/wharf-spec>
 
 ## See also
 

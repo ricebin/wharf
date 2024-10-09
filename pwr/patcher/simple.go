@@ -4,8 +4,8 @@ import (
 	"github.com/itchio/headway/state"
 	"github.com/itchio/lake/pools/fspool"
 	"github.com/itchio/savior"
-	"github.com/itchio/wharf/pwr/bowl"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/pwr/bowl"
 )
 
 type PatchFreshParams struct {

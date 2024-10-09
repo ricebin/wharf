@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/wtest"
 )
 
 func Test_SafeKeeper(t *testing.T) {

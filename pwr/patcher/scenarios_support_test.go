@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/wtest"
 )
 
 type patchScenario struct {
