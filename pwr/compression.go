@@ -6,8 +6,8 @@ import (
 	"log"
 
 	"github.com/itchio/savior"
-	"github.com/itchio/wharf/wire"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/wire"
 )
 
 // A Compressor can compress a stream given a quality setting

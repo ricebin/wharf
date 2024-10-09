@@ -8,7 +8,7 @@ import (
 	"github.com/itchio/screw"
 
 	"github.com/itchio/lake/pools/zipwriterpool"
-	"github.com/itchio/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/pwr/bowl"
 )
 
 func Test_PatchOneSameLength(t *testing.T) {

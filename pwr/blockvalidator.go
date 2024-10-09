@@ -3,8 +3,8 @@ package pwr
 import (
 	"bytes"
 
-	"github.com/itchio/wharf/wsync"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/wsync"
 )
 
 type blockValidator struct {

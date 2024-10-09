@@ -9,7 +9,7 @@ import (
 	"github.com/itchio/headway/state"
 	"github.com/itchio/lake/pools/fspool"
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/wtest"
 	"github.com/stretchr/testify/assert"
 )
 

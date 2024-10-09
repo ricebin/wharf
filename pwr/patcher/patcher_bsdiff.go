@@ -7,10 +7,10 @@ import (
 
 	"github.com/itchio/headway/united"
 	"github.com/itchio/lake"
-	"github.com/itchio/wharf/bsdiff"
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/bowl"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/bsdiff"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/bowl"
 )
 
 func (sp *savingPatcher) processBsdiff(c *Checkpoint, targetPool lake.Pool, sh *pwr.SyncHeader, bwl bowl.Bowl) (err error) {

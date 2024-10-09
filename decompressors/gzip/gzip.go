@@ -3,7 +3,7 @@ package gzip
 import (
 	"github.com/itchio/savior"
 	"github.com/itchio/savior/gzipsource"
-	"github.com/itchio/wharf/pwr"
+	"github.com/ricebin/wharf/pwr"
 )
 
 type gzipDecompressor struct{}

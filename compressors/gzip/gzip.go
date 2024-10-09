@@ -4,7 +4,7 @@ import (
 	"compress/gzip"
 	"io"
 
-	"github.com/itchio/wharf/pwr"
+	"github.com/ricebin/wharf/pwr"
 )
 
 type gzipCompressor struct{}

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/itchio/wharf/werrors"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/werrors"
 )
 
 // Task describes some work to be done

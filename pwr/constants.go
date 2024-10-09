@@ -3,7 +3,7 @@ package pwr
 import (
 	"encoding/binary"
 
-	"github.com/itchio/wharf/wsync"
+	"github.com/ricebin/wharf/wsync"
 )
 
 // Endianness defines the byte order of all fixed-size integers written or read by wharf

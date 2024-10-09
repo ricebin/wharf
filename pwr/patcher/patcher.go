@@ -5,11 +5,11 @@ import (
 	"github.com/itchio/savior"
 	"github.com/itchio/screw"
 
-	"github.com/itchio/wharf/bsdiff"
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/pwr/bowl"
-	"github.com/itchio/wharf/wire"
-	"github.com/itchio/wharf/wsync"
+	"github.com/ricebin/wharf/bsdiff"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/pwr/bowl"
+	"github.com/ricebin/wharf/wire"
+	"github.com/ricebin/wharf/wsync"
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"

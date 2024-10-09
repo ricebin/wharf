@@ -4,15 +4,15 @@ import (
 	"context"
 	"io"
 
-	"github.com/itchio/savior"
 	"github.com/itchio/headway/counter"
 	"github.com/itchio/headway/state"
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/werrors"
-	"github.com/itchio/wharf/wire"
-	"github.com/itchio/wharf/wsync"
+	"github.com/itchio/savior"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/werrors"
+	"github.com/ricebin/wharf/wire"
+	"github.com/ricebin/wharf/wsync"
 )
 
 // A SignatureInfo contains all the hashes for small-blocks of a given container

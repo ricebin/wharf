@@ -2,8 +2,8 @@ package pwr
 
 import (
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/wsync"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/wsync"
 )
 
 type HashInfo struct {

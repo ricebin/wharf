@@ -10,10 +10,10 @@ import (
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/tlc"
 	"github.com/itchio/savior"
-	"github.com/itchio/wharf/bsdiff"
-	"github.com/itchio/wharf/pwr"
-	"github.com/itchio/wharf/wire"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/bsdiff"
+	"github.com/ricebin/wharf/pwr"
+	"github.com/ricebin/wharf/wire"
 )
 
 // FileOrigin maps a target's file index to how many bytes it

@@ -7,10 +7,10 @@ import (
 	"os"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/itchio/headway/united"
-	"github.com/itchio/wharf/bsdiff/lrufile"
 	"github.com/itchio/headway/counter"
+	"github.com/itchio/headway/united"
 	"github.com/pkg/errors"
+	"github.com/ricebin/wharf/bsdiff/lrufile"
 )
 
 // ErrCorrupt indicates that a patch is corrupted, most often that it would produce a longer file

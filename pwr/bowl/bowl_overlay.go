@@ -11,7 +11,7 @@ import (
 	"github.com/itchio/headway/state"
 	"github.com/itchio/savior/filesource"
 	"github.com/itchio/screw"
-	"github.com/itchio/wharf/pwr/overlay"
+	"github.com/ricebin/wharf/pwr/overlay"
 
 	"github.com/itchio/lake"
 	"github.com/itchio/lake/pools/fspool"

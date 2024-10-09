@@ -15,8 +15,8 @@ import (
 	"github.com/itchio/httpkit/eos"
 	"github.com/itchio/httpkit/eos/option"
 
-	"github.com/itchio/wharf/ctxcopy"
-	"github.com/itchio/wharf/werrors"
+	"github.com/ricebin/wharf/ctxcopy"
+	"github.com/ricebin/wharf/werrors"
 
 	"github.com/itchio/arkive/zip"
 

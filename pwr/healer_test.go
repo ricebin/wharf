@@ -17,7 +17,7 @@ import (
 	"github.com/itchio/arkive/zip"
 
 	"github.com/itchio/lake/tlc"
-	"github.com/itchio/wharf/wtest"
+	"github.com/ricebin/wharf/wtest"
 
 	"github.com/itchio/headway/state"
 	"github.com/itchio/randsource"
